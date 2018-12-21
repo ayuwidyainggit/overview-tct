@@ -14,10 +14,10 @@
 | 5         | [tct](https://github.com/ayuwidyainggit/tct/tree/master/minggu-05)  | 05 Oktober 2018  | Agar mahasiswa dapat memahami spreadsheed berbasis javascript |
 | 6         | [endpoint](https://github.com/ayuwidyainggit/endpoint)  | 12 Oktober 2018  | Agar mahasiswa dapat memahami tentang end point |
 | 7         | [mysql-express-nodejs](https://github.com/ayuwidyainggit/mysql-express-nodejs)  | 19 Oktober 2018  | Agar mahasiswa dapat mengambil data dari mysql menggunakan express dan node js|
-| 8         | Melengkapi repo                                                     | 09 November 2018  |   |
+| 8         | Melengkapi repo                                                     | 09 November 2018  | -  |
 | 9         | [web2.0](https://github.com/ayuwidyainggit/web2.0)                  | 16 November 2018  | Agar mahasiswa dapat mengetahui teknologi yang digunakan di web 2.0 |
 | 10         | [git-sendiri-tim](https://github.com/ayuwidyainggit/git-sendiri-tim)| 23 November 2018  | Agar mahasiswa dapat mengetahui cara kerja git dan github|
-| 11        | [docker-ayu](https://github.com/ayuwidyainggit/docker-ayu)  | 30 November 2018  |    |
-| 12         | [docker-compose](https://github.com/ayuwidyainggit/docker-ayu)  | 07 Desember 2018  | Agar mahasiswa dapat mengetahui penerapan software berbasis as service (SaaS) pada cloud computing|
+| 11        | [docker-ayu](https://github.com/ayuwidyainggit/docker-ayu)  | 30 November 2018  |  Pengenalan docker  |
+| 12         | [docker-compose](https://github.com/ayuwidyainggit/docker-ayu)  | 07 Desember 2018  | Agar mahasiswa dapat mengetahui tentang docker compose|
 | 13         | memperbaiki repo  | 14 Desember 2018  | |
-| 14         | membuat repo overview-tct                                           | 21 Desember 2018  | Agar mahasiswa dapat mengetahui penerapan software berbasis as service (SaaS) pada cloud computing|
+| 14         | membuat repo overview-tct                                           | 21 Desember 2018  |  - |
